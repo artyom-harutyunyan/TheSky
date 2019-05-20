@@ -1,28 +1,16 @@
 // var arr = [];
-// var rand = Math.round(Math.random() * 1000);
-
-// var scrolled = window.pageYOffset || document.documentElement.scrollTop;
-// console.log(scrolled);
+// var body = document.getElementsByTagName('body');
 // var elem = document.getElementsByClassName('element')[0];
-// var box = elem.getBoundingClientRect(); 
-// console.log(box);
-var arr = [];
-var container = document.getElementsByTagName('element');
-var ract = element.getBoundingClientRect();
-// var rand_x = Math.round(Math.random() * 1000);
-// var rand_y = Math.round(Math.random() * 1000);
-console.log(ract.top, ract.left, ract.right, ract.bottom);
-
-
-function generate() {
-
-
-}
-
-
-getBoundingClientRect()
-// var Gstar = document.createElement('div') * 10;
-// Gstar.className = 'star';
-// Gstar.style.left = rand_x;
-// Gstar.style.top = rand_y;
-// container.appendChild(Gstar);
+// function generate() {
+//     var pos_x = Math.round(Math.random() * 270);
+//     var pos_y = Math.round(Math.random() * 270);
+//         var star = document.createElement('div');
+//         star.className = 'star';
+//         star.style.top = pos_x + "px";
+//         star.style.left = pos_y + "px";
+//         star.style.right = pos_y + "px";
+//         star.style.bottom = pos_y + "px";
+//         elem.appendChild(star);
+//         for(var i = 1; i < 2; i++);
+//         generate(i);
+// }
